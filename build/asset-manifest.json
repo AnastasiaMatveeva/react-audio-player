@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21770375.css",
+    "main.js": "/static/js/main.71d03e86.js",
+    "static/media/bach.mp3": "/static/media/bach.c21e55e78fa7f6fc360a.mp3",
+    "static/media/beethoven.mp3": "/static/media/beethoven.8f2e827ad98b812b0a30.mp3",
+    "static/media/mozart.mp3": "/static/media/mozart.2d9e4898704ab869759d.mp3",
+    "static/media/strauss.mp3": "/static/media/strauss.3e806f95f0a8e1fe1de7.mp3",
+    "static/media/vivaldi.mp3": "/static/media/vivaldi.4ac0e31e6f5aef1dce5c.mp3",
+    "static/media/MozartImg.jpeg": "/static/media/MozartImg.199a2dca1d83237085a5.jpeg",
+    "static/media/BeethovenImg.jpeg": "/static/media/BeethovenImg.f507e1f17a85f2fb5d31.jpeg",
+    "static/media/VivaldiImg.jpeg": "/static/media/VivaldiImg.27f2b957b2b94b1a210f.jpeg",
+    "static/media/Bach.jpeg": "/static/media/Bach.8679824da808841a0722.jpeg",
+    "static/media/StraussImg.jpeg": "/static/media/StraussImg.5488056d20df170f13ab.jpeg",
+    "index.html": "/index.html",
+    "main.21770375.css.map": "/static/css/main.21770375.css.map",
+    "main.71d03e86.js.map": "/static/js/main.71d03e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21770375.css",
+    "static/js/main.71d03e86.js"
+  ]
+}
